@@ -1,1 +1,1 @@
-A file for testing git merge conflicts
+Modified on branch conflict-test/b
